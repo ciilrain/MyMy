@@ -10,8 +10,9 @@ def vck(subj):
 
 proc = '/proc/sys/'
 subj = '/proc/sys/net/ipv4/ip_forward'
-subj2 = 'vm/swapness'
+subj2 = r'vm/swapness'
 
-str1 = proc+subj2
+str1 = proc + subj2
 print(str1)
 print(end2)
+exit
