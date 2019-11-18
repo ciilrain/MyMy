@@ -1,0 +1,5 @@
+net/ipv4/ip_forward
+net/ipv4/tcp_syncookies
+net/ipv4/tcp_max_syn_backlog
+net/core/somaxconn
+vm/swappiness
