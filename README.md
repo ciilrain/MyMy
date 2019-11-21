@@ -1,3 +1,2 @@
 # MyMy
-don't know what it for
-maintains shell
+commonly check parameters which can be turn over in linux
